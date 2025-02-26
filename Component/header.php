@@ -6,8 +6,9 @@
         <a href="about.php">about</a>
         <a href="Portfolio.php">Portfolio</a>
         <a href="Pricing.php">Pricing</a>
-        <a href="Contact.php">Contact</a>
+        <a href="Contact.php">ontact</a>
 
 </nav>
+ <h1>guu </h1>
 
 </section>
